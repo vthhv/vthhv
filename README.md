@@ -6,7 +6,7 @@ Olá! Eu sou o Vitor ✌️
 <div>
 <a href="https://beacons.ai/vthhv">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vthhv&show_icons-true&theme=dracula&include_all_comits-true&count_private-true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthhv&layout=compact&langs_count=16&theme=dracula"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthhv&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
