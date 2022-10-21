@@ -3,11 +3,7 @@ Olá! Eu sou o Vitor ✌️
 - 🔭 Atualmente sou estudante de Back-end na Universidade Norte do Paraná Unopar/Pitagoras
 - 🌱 Estou aprendendo Java | MySQL | SpringFramework
 
-<div>
-<a href="https://beacons.ai/vthhv">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vthhv&show_icons-true&theme=dracula&include_all_comits-true&count_private-true"/>
-<img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthhv&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="vthhg-Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
