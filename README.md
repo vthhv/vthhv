@@ -1,6 +1,6 @@
 Olá! Eu sou o Vitor ✌️
 
-- 🔭 Atualmente sou estudante de Back-end na Universidade Norte do Paraná Unopar/Pitagoras
+- 🔭 Atualmente sou estudante de Back-end na Universidade Norte do Paraná 
 - 🌱 Estou aprendendo Java | MySQL | SpringFramework
 
 
